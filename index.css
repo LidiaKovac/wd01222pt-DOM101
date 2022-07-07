@@ -7,3 +7,25 @@
     background-color: antiquewhite;
     color: black;
 }
+
+.car__wrap {
+    display: flex;
+}
+
+.car {
+    width: 200px;
+    height: 250px;
+
+    background-color: lightcyan;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px cyan solid;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+
+    text-align: center;
+}
+
+.car h3 {
+    text-transform: uppercase;
+}
